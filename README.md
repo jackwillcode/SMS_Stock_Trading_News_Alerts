@@ -1,1 +1,1 @@
-# SMS_Stock_Trading_News_Alerts
+# Stock_Trading_News_Alert
